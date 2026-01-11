@@ -57,6 +57,11 @@ model-index:
 </p>
 
 <p align="center">
+  <a href="https://huggingface.co/kugelaudio/kugelaudio-0-open"><img src="https://img.shields.io/badge/🤗-Hugging_Face_Model-blue" alt="HuggingFace Model"></a>
+  <a href="https://github.com/Kugelaudio/kugelaudio-open"><img src="https://img.shields.io/badge/GitHub-Repository-black" alt="GitHub Repository"></a>
+</p>
+
+<p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
   <a href="https://huggingface.co/kugelaudio"><img src="https://img.shields.io/badge/🤗-Models-yellow" alt="HuggingFace"></a>
